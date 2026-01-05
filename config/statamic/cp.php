@@ -13,7 +13,7 @@ return [
 
     'enabled' => env('CP_ENABLED', true),
 
-    'route' => env('CP_ROUTE', 'admin'),
+    'route' => env('CP_ROUTE', 'admin-panel'),
 
     /*
     |--------------------------------------------------------------------------

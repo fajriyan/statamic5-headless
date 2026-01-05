@@ -14,7 +14,7 @@
 - Enable Resource & Config `config/statamic/api.php`
 - Generate Key `php artisan key:generate`
 - Run with `php artisan serve`
-- Login Admin `http://localhost:8000/admin` (email : fajriyan@fajriyan.com |
+- Login Admin `http://localhost:8000/admin-panel` (email : fajriyan@fajriyan.com |
   password : fajriyan)
 
 ### routing
