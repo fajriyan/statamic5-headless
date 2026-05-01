@@ -61,5 +61,7 @@
 
 
 
-
+### Next Update
+- migrate to statamic 6
+- fix issue filtering
 
